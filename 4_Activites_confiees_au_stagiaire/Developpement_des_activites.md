@@ -10,7 +10,8 @@ Le raspberry, grâce à des softs tel que LAMP, peut devenir un serveur Web. Les
 
 voir img: diag_1.PNG
 
-### Avantages et inconvéniient:
+### Avantages et inconvénient:
 
 En utilisant le raspberry de cette manière les utilisateurs de la plateforme n'ont pas besoin d'installer un logiciel tiers sur leurs poste de travail, ils leurs suffit d'avoir un navigateur tel que Firefox ou Chrome. Le système est également accessible depuis chaque ordinateurs connéctés sur le réseaux ce que apporte beaucoup de flexibilité.
 Bien sur le fait que le système puisse être utilisé par toutes les machines du réseaux pose un problème de sécurité.
+
