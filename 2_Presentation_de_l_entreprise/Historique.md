@@ -33,3 +33,11 @@ La villa Burrus est à l’image de son parc botanique, aujourd’hui entretenu 
 ### Source
 
 http://www.mediatheque.valdargent.com/index.php/la-mediatheque/historique
+
+
+Historique :
+En 1911, Maurice Burrus hérite du « château » monumental de ses parents et s’y installe le long de la rue principale de Sainte-Croix-aux-Mines. 
+A partir de 1932, André Burrus fait ériger une nouvelle demeure au milieu d’un parc botanique. De style français, la villa Burrus s’apparente aux constructions de la seconde moitié du 19ème siècle.
+Après le décès d’André Burrus, survenu en 1973, ses héritiers revendent le domaine à la Région Alsace en 1976. Le domaine est transformé en Maison régionale de la musique. Mais à partir de 1985, la Maison régionale de la musique est confrontée à des difficultés financières et structurelles croissantes. Elle ferme ses portes autour de 1990.
+Dans l’attente d’un projet de reprise du site, le Conseil Général du Haut-Rhin rachète la villa Burrus à titre conservatoire en 1991. Le Département revend le domaine au District du Val d’Argent en 1997, qui souhaite y réaliser une médiathèque intercommunale et des espaces associatifs.
+Le District du Val d’Argent entame des études de faisabilité pour y réaliser une médiathèque intercommunale, une plate-forme multimédia et des espaces associatifs. Débutés en avril 2003, les travaux s’achèvent en septembre 2004.
